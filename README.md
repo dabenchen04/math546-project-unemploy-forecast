@@ -8,8 +8,8 @@ Ben Chen
 - `capstone_stage1_chen_ben.ipynb` — report source with all code and outputs
 - `capstone_stage1_ai_log_chen_ben.md` — AI-use log
 - `capstone_support/` — instructor data loader and FRED-MD snapshot
-- `results/final_test/` — saved test forecasts and scores
 - `requirements-starter.txt` — Python dependencies
+- - `results/final_test/` — will be automatically created once running the notebook
 
 ## Reproduce
 
