@@ -1,0 +1,10 @@
+# Use Python 3.12, as tested by the instructor.
+# Preserve the instructor-pinned loading dependencies.
+-r capstone_support/requirements.txt
+
+# Starter interface and analysis tools; save exact versions once the environment is settled.
+jupyterlab
+ipykernel
+matplotlib
+statsmodels
+scikit-learn
